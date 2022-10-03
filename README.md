@@ -55,5 +55,6 @@ Deliverable 6: A written analysis of your results
 
 **Deliverable 6: A written analysis of your results**
 
-![Deliverable6](https://user-images.githubusercontent.com/112278208/193650034-2eb881bb-30d3-4286-b021-7b6599720983.png)
+![Deliverable6](https://user-images.githubusercontent.com/112278208/193652500-2449399b-170c-4954-a141-3fc482e3b8ee.png)
+
 
